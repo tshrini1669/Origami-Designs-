@@ -1,0 +1,24 @@
+h1{
+ color: greenyellow;
+font-style: italic;
+}
+p{
+    color:skyblue
+}
+li{
+ color:mediumspringgreen;
+    font-size: 25px;
+}
+i{
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(#34ebcc 0%,#314b8f 100%);
+}
+a{
+    color:black
+}
+marquee{
+    color: black;
+    font-size: 25px;
+}
